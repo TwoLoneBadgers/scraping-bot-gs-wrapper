@@ -1,4 +1,4 @@
 // Hello World!
-function HelloWorld() {
-  console.log("Hello World!");
+function HelloWorld(args) {
+  console.log(`Hello World! ${args}`);
 }
